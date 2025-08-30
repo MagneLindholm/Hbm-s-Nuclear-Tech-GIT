@@ -2717,7 +2717,7 @@ public class ModItems {
 			.setStats(20)
 			.setFunction(EnumBurnFunc.PLATEU)
 			.setDepletionFunction(EnumDepleteFunc.BOOSTED_SLOPE)
-			.setHeat(0.65D) //Consistency with MEU
+			.setHeat(1.5D) //Consistency with MEU
 			.setMeltingPoint(3350)
 			.setFuelColor(0.360F, 0.259F, 0.212F)
 			;
